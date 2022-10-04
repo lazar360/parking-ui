@@ -12,7 +12,7 @@ A Nantes parking info mobile web site built with Java SpringBoot, Angular, Angul
 It's connected with a R.E.S.T API.
 
 <h2>Demo</h2>
-![demo_parking](https://user-images.githubusercontent.com/91179295/193880967-b8c86ea8-41e7-4a5f-b98b-38da5c53b1ce.gif)
+![demo_parking](https://user-images.githubusercontent.com/91179295/193881817-ed3dd301-015f-4a02-b4e5-e15a030fff96.gif)
 
 <h2>Features</h2>
 The application is a parking info mobile web site.
