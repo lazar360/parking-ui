@@ -9,7 +9,7 @@
 <h2>Introduction</h2>
 
 A Nantes parking info mobile web site built with Java SpringBoot, Angular, Angular Material.
-It's connected with a rest API.
+It's connected with a R.E.S.T API.
 
 <h2>Demo</h2>
 
