@@ -19,6 +19,6 @@ Users can do the following :
     <li>See parking details  </li>
 </ul>
 
-<h2>Demonstration</h2>
+<h2>Demo</h2>
   
 ![demo_parking2](https://user-images.githubusercontent.com/91179295/193883721-5cfdbada-871e-45ad-877c-be070b0e67bb.gif)
