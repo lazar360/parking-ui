@@ -2,5 +2,6 @@
     <mat-toolbar>
         <span>{{title}}</span>
     </mat-toolbar>
-    <app-parkings></app-parkings>
+    <!-- <app-parkings></app-parkings> On désactive le component parking par défaut-->
+    <router-outlet></router-outlet> <!--Cette ligne va appeler le module mappé dans app-routing.module -->
 </div>
