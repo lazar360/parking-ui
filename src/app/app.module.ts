@@ -8,19 +8,27 @@ import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { MatToolbarModule } from '@angular/material/toolbar';
 import { MatCardModule } from '@angular/material/card';
 import {MatProgressSpinnerModule} from '@angular/material/progress-spinner';
+import { AppRoutingModule } from './app-routing.module';
+import { ParkingDetailComponent } from './parking-detail/parking-detail.component';
+import {MatIconModule} from '@angular/material/icon';
+import {MatButtonModule} from '@angular/material/button';
 
 @NgModule({
   declarations: [
     AppComponent,
-    ParkingsComponent
+    ParkingsComponent,
+    ParkingDetailComponent
   ],
   imports: [
     BrowserModule,
     HttpClientModule,
     BrowserAnimationsModule,
     MatToolbarModule,
+    MatButtonModule,
     MatCardModule,
-    MatProgressSpinnerModule
+    MatIconModule,
+    MatProgressSpinnerModule,
+    AppRoutingModule
   ],
   providers: [],
   bootstrap: [AppComponent]
