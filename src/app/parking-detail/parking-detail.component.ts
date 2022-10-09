@@ -11,6 +11,7 @@ import { ParkingService } from '../parking.service';
 export class ParkingDetailComponent implements OnInit {
 
   parking: ParkingInfo | undefined; // On crée un objet parking qui peut être undefined
+  isLoaded: boolean = false;
 
   constructor(private route: ActivatedRoute, private parkingService: ParkingService) { }
 
@@ -21,6 +22,7 @@ export class ParkingDetailComponent implements OnInit {
     this.parkingService.getParking(parkingId).subscribe(
       reponse => {
         this.parking = reponse;
+        this.isLoaded = true;
       }
     );
   }
