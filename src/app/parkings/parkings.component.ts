@@ -35,5 +35,4 @@ export class ParkingsComponent implements OnInit {
       return {'font-style' : 'italic'}
     }
   }
-
 }
