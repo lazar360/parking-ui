@@ -26,4 +26,4 @@ Users can do the following :
 
 <h2>Link to demo website (to watch on your phone)</h2>
 
-Follow this <a target="blank" href="https://angular-parking-production.up.railway.app">link</a>. 
+Follow this <a href="https://angular-parking-production.up.railway.app">link</a>. 
