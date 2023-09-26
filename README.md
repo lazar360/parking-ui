@@ -4,7 +4,6 @@
         <li>Introduction</li>
         <li>Features</li>
         <li>Demonstration</li>
-        <li>Link to demo website (to watch on your phone)</li>
     </ul>
 
 <h2>Introduction</h2>
@@ -23,7 +22,3 @@ Users can do the following :
 <h2>Demo</h2>
   
 ![demo_parking2](https://user-images.githubusercontent.com/91179295/193883721-5cfdbada-871e-45ad-877c-be070b0e67bb.gif)
-
-<h2>Link to demo website (to watch on your phone)</h2>
-
-Follow this <a href="https://angular-parking-production.up.railway.app">link</a>. 
