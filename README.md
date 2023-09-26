@@ -26,4 +26,4 @@ Users can do the following :
 
 <h2>Link to phone website demo</h2>
 
-Follow this <a href="angular-parking-production.up.railway.app">link</a>. 
+Follow this <a href="[angular-parking-production.up.railway.app](https://angular-parking-production.up.railway.app/)">link</a>. 
